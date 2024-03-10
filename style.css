@@ -1,0 +1,31 @@
+body {background: url(https://uvn-brightspot.s3.amazonaws.com/assets/vixes/btg/tech.batanga.com/files/Fondos-para-paginas-web.jpg);
+    color: black;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;}
+    h1 {font-size: 50px;
+    padding-left: 28%;
+    padding-right: 20%;
+    background-color: #339de4;}
+    * {padding-left: 7%;
+    padding-right: 5%;
+    font-size: 25px;}
+    img {padding-left: 200px;}
+    a{
+        color: black;
+        background-color: #339de4;
+        font-size: 22px;
+        padding-right:7%
+        padding-left:-4%
+    }
+    p{
+        color: #f8e57a;
+        background-color: #339de4
+        
+    }
+    .caja{
+        width: fit-content;
+        position:relative;
+        top:;
+        bottom:;
+    }
