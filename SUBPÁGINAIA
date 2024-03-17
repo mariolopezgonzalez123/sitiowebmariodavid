@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Dieta Mediterránea</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            font-style: italic;
+            text-align: center;
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>La Dieta Mediterránea</h1>
+    </header>
+    <main>
+        <p>La dieta mediterránea es un patrón alimentario tradicional que se ha seguido en los países mediterráneos durante siglos. Se caracteriza por ser rica en frutas, verduras, legumbres, cereales integrales, pescado, aceite de oliva y frutos secos.</p>
+        <p>Entre los principales beneficios de seguir una dieta mediterránea se encuentran:</p>
+        <ul>
+            <li>Reducción del riesgo de enfermedades cardiovasculares.</li>
+            <li>Mejora del control de la glucemia en personas con diabetes.</li>
+            <li>Promoción de la salud cerebral y prevención de enfermedades neurodegenerativas.</li>
+            <li>Protección contra ciertos tipos de cáncer.</li>
+            <li>Contribución a mantener un peso saludable.</li>
+        </ul>
+        <p>Además de los alimentos mencionados, la dieta mediterránea también incluye consumo moderado de vino tinto durante las comidas, así como la práctica regular de actividad física y compartir las comidas en compañía, lo que añade beneficios tanto físicos como sociales.</p>
+        <p>En resumen, la dieta mediterránea es mucho más que una forma de alimentarse, es un estilo de vida saludable que promueve el bienestar físico y emocional.</p>
+        <img src="C:\Users\Windows\Downloads\Default_create_an_image_that_showcases_the_mediterranean_food_3.jpg" alt="Imagen de la Dieta Mediterránea">
+    </main>
+    <footer>
+        <p>&copy; 2024 Comidas Españolas</p>
+    </footer>
+</body>
+</html>
